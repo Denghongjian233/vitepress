@@ -12,10 +12,10 @@ hero:
     src: https://avatars.githubusercontent.com/u/105765162?v=4
     alt: 五点物语
   actions:
-    - text: 茂茂物语
+    - text: 五点物语
       link: 
     - text: 前端导航
-      link: /nav/
+      link: 
       theme: alt
     - text: 神火
       link: 
