@@ -73,7 +73,7 @@ export default defineConfig({
           text: 'Life',
           items: [
             { text: 'April', link: '/Life/4-03' },
-            { text: 'Frontmatter Config', link: '/reference/frontmatter-config' },
+            { text: 'Longplate', link: '/Life/Longplate' },
             { text: 'Runtime API', link: '/reference/runtime-api' },
             { text: 'CLI', link: '/reference/cli' },
             {
