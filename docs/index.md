@@ -13,12 +13,9 @@ hero:
     alt: 五点物语
   actions:
     - text: 五点物语
-      link: 
+      link: /Life/April
     - text: 前端导航
-      link: 
-      theme: alt
-    - text: 神火
-      link: 
+      link: /Froend/HTTP
       theme: alt
 
 features:
