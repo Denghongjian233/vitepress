@@ -2,7 +2,7 @@
  * @Author: dhj 17613071153@163.com
  * @Date: 2023-04-03 19:33:49
  * @LastEditors: dhj 17613071153@163.com
- * @LastEditTime: 2023-04-10 10:12:54
+ * @LastEditTime: 2023-04-10 15:29:40
  * @FilePath: \最近的项目\实验项目\docs\Life\April.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -111,3 +111,12 @@ Js 数据类型 this 原型 异步 垃圾回收
 
 完成pmp学习 数据结构与算法。
 
+本周重点 
+
+> 完善面试题
+
+> 后处理bug修复（修复完就可以跑路
+
+> 数据结构算法看几节 刷题
+
+> 出shoivt

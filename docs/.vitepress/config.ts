@@ -51,9 +51,8 @@ export default defineConfig({
           text: 'Vue',
           collapsed: true,
           items: [
-            { text: '基础', link: '/Froend/基础' },
-            { text: '通信', link: '/Froend/通信' },
-            { text: 'V3新增', link: '/Froend/V3新增' },
+            { text: 'Vue', link: '/Froend/Vue' },
+      
           ]
         },
         {
