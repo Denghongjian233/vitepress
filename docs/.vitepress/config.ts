@@ -27,24 +27,16 @@ export default defineConfig({
           text: 'Html+css',
           collapsed: true,
           items: [
-            { text: '新特性', link: '/Froend/新特性' },
-            { text: 'canvas', link: '/Froend/canvas' },
-            { text: '盒模型', link: '/Froend/盒模型' },
-            { text: '定位', link: '/Froend/定位' },
-            { text: 'BFC', link: '/Froend/BFC' },
-            { text: 'flex', link: '/Froend/flex' },
-            { text: 'grid', link: '/Froend/grid' },
+            { text: 'H5', link: '/Froend/H5' },
+            { text: 'CSS', link: '/Froend/CSS' },
           ]
         },
         {
           text: 'JS',
           collapsed: true,
           items: [
-            { text: '数据类型', link: '/Froend/数据类型' },
-            { text: 'ES6', link: '/Froend/ES6' },
-            { text: '原型', link: '/Froend/原型' },
-            { text: '异步', link: '/Froend/异步' },
-            { text: '手写', link: '/Froend/手写' },
+            { text: 'JS', link: '/Froend/JS' },
+            { text: '手写JS', link: '/Froend/手写JS' },
           ]
         },
         {
