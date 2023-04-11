@@ -1,11 +1,3 @@
-<!--
- * @Author: dhj 17613071153@163.com
- * @Date: 2023-04-03 19:33:49
- * @LastEditors: dhj 17613071153@163.com
- * @LastEditTime: 2023-04-10 15:29:40
- * @FilePath: \最近的项目\实验项目\docs\Life\April.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
--->
 # 四月加油
 
 ## 4.03
@@ -120,3 +112,21 @@ Js 数据类型 this 原型 异步 垃圾回收
 > 数据结构算法看几节 刷题
 
 > 出shoivt
+
+## 4.11
+
+1. 改树  树状结构？不会就问 
+
+current-ids 全选bug为什么 selectionid 返回选中的项 getters
+
+2. 不要让任何事情阻止你追逐梦想，我们只有克服别人的眼光，才能成就自己！
+
+树 的数据流向 
+
+树的事件 控制数据流向？
+
+通过控制store里面的东西 
+
+1. 点击事件 存的是什么呢
+
+2. 
