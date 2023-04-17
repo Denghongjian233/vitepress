@@ -86,6 +86,7 @@ export default defineConfig({
             { text: 'April', link: '/Life/April' },
             { text: 'Longplate', link: '/Life/Longplate' },
             { text: 'sweetTian', link: '/Life/sweetTian' },
+            { text: 'Sing', link: '/Life/Sing' },
           ]
         }
       ]

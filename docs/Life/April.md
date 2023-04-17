@@ -153,4 +153,7 @@ current-ids 全选bug为什么 selectionid 返回选中的项 getters
 
 今天写的是仿真时长
 
-##
+## 4.17
+
+发布功能 查看发布详情 不登录微信
+
