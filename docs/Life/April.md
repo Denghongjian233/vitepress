@@ -304,4 +304,22 @@ docker Nginx linux
 
 不羡慕别人，好好的干好自己
 
-## 
+## 4.26
+
+昨天，povit；一条线 速度 小飞侠的左脚重心问题，manual
+
+今天需求。指标这一块
+
+leedcode 
+
+双数之和
+
+遍历对象 
+
+{值：索引}
+ 0 - i 
+ if （目标值 - 现在值 = duixiangde[nums[i]）{
+    retun duixiang de val i
+ }else{
+   duixaing  nums[i] = i
+ }
