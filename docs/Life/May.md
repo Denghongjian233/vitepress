@@ -1,3 +1,11 @@
+<!--
+ * @Author: dhj 17613071153@163.com
+ * @Date: 2023-05-04 09:03:11
+ * @LastEditors: dhj 17613071153@163.com
+ * @LastEditTime: 2023-05-16 10:30:05
+ * @FilePath: \最近的项目\实验项目\docs\Life\May.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 
 # 再创新高
 
@@ -62,4 +70,18 @@
 把重点放在整个人上 不光光是技术 情绪才是第一位。
 
 漏齿笑
+
+小程序（可以看视频 
+
+8月份 pm考试
+
+认真工作真的好爽
+
+## 5.11
+
+电脑不登录微信 钉钉（就半小时吧
+
+## 5.16
+
+更新edge和chrome的配置
 
