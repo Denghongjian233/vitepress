@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>ECharts Gauge Custom Tooltip</title>
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5.2.0/dist/echarts.min.js"></script>
+</head>
+<body>
+  <div id="chart" style="width: 600px; height: 400px;"></div>
+
+  <script>
+    // 模拟的仪表盘数据
+    const seriesData = [
+      { value: 50, name: 'Series 1' },
+      { value: 70, name: 'Series 2' },
+      { value: 90, name: 'Series 3' },
+      // 可能有更多的 series 数据...
+    ];
+
+    // 创建仪表盘图表实例
+    const chart = echarts.init(document.getElementById('chart'));
+
+    // 自定义 tooltip 样式
+    chart.setOption({
+      tooltip: {
+        formatter: function (params) {
+          const seriesName = params.seriesName; // 仪表盘名称
+          const value = params.value; // 仪表盘数值
+          const title = `<div style="display: flex; align-items: center;"><div style="font-weight: bold;">${seriesName}</div><div style="margin-left: 10px;">${value}</div></div>`;
+          const detail = params.marker + ' ' + params.name;
+          return title + '<br>' + detail;
+        }
+      },
+      series: [
+        {
+          type: 'gauge',
+          detail: {
+            formatter: '{value}%',
+            offsetCenter: [0, '80%']
+          },
+          data: seriesData
+        }
+      ]
+    });
+
+    // 渲染图表
+    chart.setOption({ series: [{ data: seriesData }] });
+  </script>
+</body>
+</html>
