@@ -60,7 +60,7 @@ export default defineConfig({
           collapsed: true,
           items: [
             { text: 'Vue', link: '/Froend/Vue' },
-      
+
           ]
         },
         {
@@ -77,12 +77,14 @@ export default defineConfig({
             { text: 'Connecting to a CMS', link: '/guide/cms' }
           ]
         },
-   
+
       ],
       '/Life/': [
         {
           text: 'Life',
           items: [
+            { text: 'July', link: '/Life/July' },
+            { text: 'June', link: '/Life/June' },
             { text: 'April', link: '/Life/April' },
             { text: 'May', link: '/Life/May' },
             { text: 'Photo', link: '/Life/Photo' },
